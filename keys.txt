@@ -1,4 +1,3 @@
 7492e815-1cc1-11ee-89b3-806e6f6e6963 //speedy lifetime
-A2A616E3-CCC3-DE56-CCC3-80DEF82CF885 //nympex
 94c1b880-ca4f-11ed-b08c-806e6f6e6963 //getto
 1.0
