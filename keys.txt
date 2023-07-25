@@ -1,4 +1,4 @@
 7492e815-1cc1-11ee-89b3-806e6f6e6963 //speedy lifetime
-209a2760-166a-0948-dd3a-8d6c945f38bc //Angon 27 temmuz
+75ff3102-2af6-11ee-9d66-806e6f6e6963 //nympex
 94c1b880-ca4f-11ed-b08c-806e6f6e6963 //getto
 1.0
