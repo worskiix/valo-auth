@@ -1,4 +1,4 @@
 7492e815-1cc1-11ee-89b3-806e6f6e6963 //speedy lifetime
+02e29aad-2895-4fc5-89e0-9c230d8b45ff //nympex
 FF290E78-8414-0B51-8414-80AABD90B7D6 //Leander
-75ff3102-2af6-11ee-9d66-806e6f6e6963 //nympex
 1.2
